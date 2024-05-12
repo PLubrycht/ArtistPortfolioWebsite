@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.face {
+  height: 100vh;
+  width: 100vw;
+  background: url(images/Zdjęcie\ WhatsApp\ 2024-05-12\ o\ 13.39.03_c02f5d62.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.face p {
+  margin: 0;
+  font-size: 4rem;
+}
